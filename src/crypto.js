@@ -1,3 +1,5 @@
+require('js-polyfill-object.fromentries');
+
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
 exports.taggedHash =
